@@ -32,8 +32,11 @@ Django rest framework ships with an interactive web front-end by default this ca
 
 The countries endpoint is: http://localhost:8000/countries/
 Example filters:
+
 http://localhost:8000/countries/?country=ARE
+
 http://localhost:8000/countries/?currency=TRL
+
 http://localhost:8000/countries/?currency=TRL&country=CYP
 
 The currencies endpoint is: http://localhost:8000/currencies/
