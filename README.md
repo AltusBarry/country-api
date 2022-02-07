@@ -48,7 +48,7 @@ Still in the activated virtual environment
 	coverage run --source='countries' manage.py test countries
 	coverage report -m
 
-Instructions
+Assessment Instructions
 --------------
 
 	The company has a need for a standardised internal source of country
