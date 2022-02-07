@@ -2,6 +2,8 @@
 
 Quick start
 --------------
+Browse to the root directory of this project, ie where this README is located.
+
 Create a virtual environment using python 3.8.
 
 	virtualenv ve -p python3.8
